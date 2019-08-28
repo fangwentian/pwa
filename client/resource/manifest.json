@@ -1,0 +1,21 @@
+{
+    "name": "Basketball",
+    "short_name": "Basketball",
+    "description": "The app that helps you understand PWA",
+    "display": "standalone",
+    "start_url": "/",
+    "theme_color": "#add8e6",
+    "background_color": "#ffffff",
+    "icons": [
+        {
+            "src": "/pic/48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/pic/256.png",
+            "sizes": "72x72 96x96 128x128 192x192 256x256 512x512",
+            "type": "image/png"
+        }
+    ]
+  }
