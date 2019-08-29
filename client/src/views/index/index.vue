@@ -21,7 +21,7 @@ export default {
     },
     mounted() {
         this.myChart = echarts.init(document.getElementById('charts'));
-        this.getData()
+        // this.getData()
     },
     methods: {
         getParam() {
